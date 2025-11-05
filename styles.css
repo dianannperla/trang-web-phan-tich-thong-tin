@@ -27,7 +27,7 @@ nav ul li a {
 }
 
 main {
-    padding: 20px;
+    padding: 40px; /* Increased padding for improved spacing */
 }
 
 footer {
