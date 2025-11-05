@@ -33,6 +33,6 @@ main {
 footer {
     text-align: center;
     padding: 10px;
-    background: #555; /* Updated for better contrast */
+    background: #333; /* Updated for better contrast */
     color: white;
 }
